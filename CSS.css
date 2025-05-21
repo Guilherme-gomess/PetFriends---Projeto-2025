@@ -1,8 +1,8 @@
 .agendar {
-  background-color: #f5f5ff;
+  background-color: #ffefc1;
   padding: 40px 20px;
   text-align: center;
-  border-top: 2px solid #a363f8;
+  border-top: 2px solid #ffcd36;
 }
 
 .agendar h2 {
@@ -31,11 +31,11 @@
   text-align: center;
   cursor: pointer;
   color: #f5f5ff;
-  background-color:#a363f8;
+  background-color:#ffcd36;
   border-radius: 15px;
   outline: none;
   border: none;
-  box-shadow: 0 9px #8e2de2;
+  box-shadow: 0 9px #c49d29;
 }
 /*=========================*/
 .caixa {
@@ -45,7 +45,7 @@
   border-radius: 15px;
   justify-content: space-between;
   text-align: center;
-  box-shadow: 0 10px 10px #9F70FD;
+  box-shadow: 0 10px 10px #ffcd36;
 }
 
 .container {
@@ -90,9 +90,11 @@
 
 .footer-box {
   background: #f2f2f2;
+  border: 2px solid black;
   padding: 0.7rem;
   width: 250px;
   border-radius: 20px;
+  box-shadow: 0 10px 10px #ffcd36
 }
 
 .footer-box h3 {
